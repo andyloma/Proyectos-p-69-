@@ -1,0 +1,4 @@
+P001;Café americano;1.50;20
+P002;Sándwich de pollo;2.00;15
+P003;Jugo natural;1.75;12
+P004;Brownie;1.25;8

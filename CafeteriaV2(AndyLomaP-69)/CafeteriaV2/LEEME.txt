@@ -1,0 +1,10 @@
+SISTEMA DE GESTION DE PEDIDOS v2.0 - Cafeteria "El Buen Sabor"
+
+COMO ABRIRLO EN ECLIPSE
+1. File > New > Java Project. Nombre: CafeteriaV2. Desmarque "Create module-info.java". JRE: Java 11 o superior. Finish.
+2. Copie la carpeta "cafeteria" (dentro de src de este zip) a la carpeta src del proyecto
+   (o: clic derecho en src > Import > General > File System > seleccione la carpeta src de este zip).
+3. Clic derecho en Main.java > Run As > Java Application.
+
+Los archivos productos.txt y pedidos.txt se crean en la carpeta raiz del proyecto.
+Si ya tiene los de la version 1.0, copielos ahi: se leen sin cambios.
